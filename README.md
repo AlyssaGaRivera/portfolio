@@ -1,17 +1,57 @@
 # Portfolio
-Hi, 
+Hi, my name is Alyssa.
 
-My name is Alyssa Rivera. I'm from San Diego, California. Currently, I am pursuing a bachelor's degree in computer science at San Diego State University. 
 
-My goal is to become a software engineer for a video game company. I grew up with video games and would like to contribute to the future of my passion in any way possible. I'm especially interested in games with a rich story as I feel like video games are meant to have characters
-the player can connect with and a world/environment that feels real and immersive. Currently, my favorite video games include Dragon Age, Overwatch, and Valorant. 
+I'm a software engineer with a passion for building interactive systems, solving technical problems, and creating experiences that people enjoy using. My long-term goal is to work as a software engineer in the video game industry, where I can contribute to the gameplay systems, tools, and technology behind the games that inspired me to pursue programming.
 
-As a side project, two of my friends and I are working on releasing our own video games. We're learning the entire process, from concept art to designing mechanics. At the moment, we are still in the early stages of our first release. We hope to have a solid alpha test sometime
-next year.
+My experience ranges from game development and machine learning to embedded systems and automation. I've developed Unity games, built hardware-integrated applications in C++, led testing efforts on full-stack web applications, and currently develop automation tools as an IT Intern for a municipal police department.
 
-As of now, I work on campus. However, I'm interested in applying internships in order to get a headstart on my career path.
+Outside of coding, I enjoy analyzing game systems and understanding how mechanics, progression, and player interaction come together to create memorable experiences.
 
-Attached to this repository is my resume.
+---
 
-Thank you for reading my portfolio,
+## What I'm Working On
+
+- Improving internal maintenance and automation tools using PowerShell and WPF
+- Expanding my game development experience with Unity and C#
+
+---
+
+## Technical Skills
+
+### Languages
+C++, C#, Python, JavaScript, SQL, PowerShell, HTML/CSS, Shell
+
+### Tools & Frameworks
+Unity, Flask, WPF, Git, GitHub, GitHub Actions, NumPy, pandas, Bootstrap, Vue.js
+
+### Areas of Interest
+Gameplay Programming • Game Systems • Software Engineering • Automation • Embedded Systems • Machine Learning • QA & Testing
+
+---
+
+## Featured Projects
+
+### Frozen Assets
+A full-stack inventory and logistics platform where I served as Test Manager, leading QA planning, integration testing, risk assessment, and requirements documentation for a six-person development team.
+
+### Tea Steeper Agent
+An embedded C++ application running on a Raspberry Pi that automates tea brewing using real-time temperature monitoring and state-machine-driven control logic.
+
+### Cubelet
+A puzzle-horror game developed in Unity where players solve physics-based puzzles before transitioning into a horror experience featuring flashlight-based enemy interactions and progressive gameplay mechanics.
+
+### Titanic Survivor Prediction
+A machine learning classification project that evaluated multiple predictive models and achieved 91.92% accuracy when predicting passenger survival outcomes.
+
+---
+
+## Why I Build
+
+I enjoy projects that challenge me to learn something new. Whether it's integrating hardware sensors, designing gameplay systems, building automation tools, or analyzing data with machine learning, I'm most engaged when I can take a problem, break it down, and create a solution that is both functional and meaningful.
+
+I'm always looking for opportunities to grow as a software engineer and contribute to projects that have a lasting impact.
+
+
+Thank you for taking the time to review my portfolio.
 Alyssa Rivera
