@@ -37,9 +37,13 @@ A full-stack inventory and logistics platform where I served as Test Manager, le
 
 ### Tea Steeper Agent
 An embedded C++ application running on a Raspberry Pi that automates tea brewing using real-time temperature monitoring and state-machine-driven control logic.
+#### Demo Video
+https://www.youtube.com/watch?v=8GqZfdYr1oc&list=PLWCnC4c9Cvk-PsLbJ4S8SA-9MPC95y6ip
 
 ### Cubelet
 A puzzle-horror game developed in Unity where players solve physics-based puzzles before transitioning into a horror experience featuring flashlight-based enemy interactions and progressive gameplay mechanics.
+#### Demo Video
+https://www.youtube.com/watch?v=JJ1vo6t9VJ0&list=PLWCnC4c9Cvk-PsLbJ4S8SA-9MPC95y6ip&index=2
 
 ### Titanic Survivor Prediction
 A machine learning classification project that evaluated multiple predictive models and achieved 91.92% accuracy when predicting passenger survival outcomes.
